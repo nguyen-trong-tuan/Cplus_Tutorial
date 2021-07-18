@@ -6,7 +6,7 @@
 
 using namespace std;
 
-string str_buff;
+string str_buff;//cho nay thay doi, code theo kieu C++ o branch2
 string str;
 char * p_str;
 uint16_t index = 0;
